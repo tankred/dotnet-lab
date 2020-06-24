@@ -14,14 +14,14 @@ What things you need to install the software and how to install them
 Give examples
 ```
 
-### Installing
+### Using Secret storage
 
 A step by step series of examples that tell you how to get a development env running
 
-Say what the step will be
+List the secrets
 
 ```
-Give the example
+ dotnet user-secrets list
 ```
 
 And repeat
